@@ -8,7 +8,7 @@ import java.util.Arrays;
  * For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24].
  * If our input was [3, 2, 1], the expected output would be [2, 3, 6].
  * Follow-up: what if you can't use division?
- * <p/>
+ * <br/>
  * Leetcode Link : <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a>
  */
 
