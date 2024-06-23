@@ -1,4 +1,4 @@
-# daily-coding-problem-solutions
+# Daily Coding Problem Solutions
 
 Solutions in Java to problems from the daily mailer of the [DailyCodingProblem](https://www.dailycodingproblem.com)
 
